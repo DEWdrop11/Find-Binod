@@ -1,3 +1,3 @@
 # Find-Binod
 This program finds Binod in ur text files.
-Text files must be store in your working directory.
+Text files must be stored in the current existing working directory.
